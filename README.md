@@ -1,2 +1,3 @@
-# LunarFN-Launcher
-The LunarFN Launcher!
+# LunarFN
+
+### Welcome to __LunarFN!__
